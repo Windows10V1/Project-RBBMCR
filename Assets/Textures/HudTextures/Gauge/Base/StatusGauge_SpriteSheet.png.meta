@@ -113,10 +113,12 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
+    flipGreenChannel: 0
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -155,6 +157,7 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  swizzle: 50462976
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -844,9 +847,40 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      StatusGauge_Move_20: -270641388006003654
+      StatusGauge_Move_25: 3712261886958419895
+      StatusGauge_Move_11: -469380566800195205
+      StatusGauge_Move_21: 6482279440318381083
+      StatusGauge_Move_16: 3447848653418041803
+      StatusGauge_Move_1: 6078123933849894219
+      StatusGauge_Move_29: -8308065824091257211
+      StatusGauge_Move_19: -771680705224987014
+      StatusGauge_Move_27: 7107599877199665411
+      StatusGauge_Move_7: -6297254497894906041
+      StatusGauge_Move_6: -4389428355700933419
+      StatusGauge_Move_26: 8425343133096567494
+      StatusGauge_Move_8: 1786048213017638891
+      StatusGauge_Move_15: 1879341125287349444
+      StatusGauge_Move_30: -1026434034442743945
+      StatusGauge_Move_13: 4812190447126287212
+      StatusGauge_Move_2: -1900654356194488376
+      StatusGauge_Move_22: 2625139403761757332
+      StatusGauge_Move_14: -8738372348068981369
+      StatusGauge_Move_5: 7443765825828829354
+      StatusGauge_Move_0: -1937513347902231163
+      StatusGauge_Move_18: 2120920260572533551
+      StatusGauge_Move_23: 371361160526248548
+      StatusGauge_Move_4: -939905559993558614
+      StatusGauge_Move_3: 4872776893512653028
+      StatusGauge_Move_9: -3538243452485138074
+      StatusGauge_Move_12: -3115050672521673572
+      StatusGauge_Move_17: -3546256122693670166
+      StatusGauge_Move_24: -329778534481077811
+      StatusGauge_Move_28: 2164546565842308038
+      StatusGauge_Move_10: 2175560433471577137
   spritePackingTag: 
   pSDRemoveMatte: 0
-  pSDShowRemoveMatteOption: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 

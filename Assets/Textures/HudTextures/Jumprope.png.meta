@@ -65,10 +65,12 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
+    flipGreenChannel: 0
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -107,6 +109,7 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  swizzle: 50462976
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -460,9 +463,24 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      Jumprope_1: 4256716184966784746
+      Jumprope_0: -2027406132535711851
+      Jumprope_8: 4025304488935191845
+      Jumprope_12: 7153827297606763081
+      Jumprope_5: 7033467740334474948
+      Jumprope_3: 976659462640619375
+      Jumprope_7: 7460815653403363240
+      Jumprope_9: -3568437101175517820
+      Jumprope_10: -1743511431438596309
+      Jumprope_2: -5107234558204749325
+      Jumprope_4: -1986518121482104952
+      Jumprope_13: 3111376175367315760
+      Jumprope_14: 6927463530442755266
+      Jumprope_6: -8021446649146495303
+      Jumprope_11: 4781766366194472733
   spritePackingTag: 
   pSDRemoveMatte: 0
-  pSDShowRemoveMatteOption: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 

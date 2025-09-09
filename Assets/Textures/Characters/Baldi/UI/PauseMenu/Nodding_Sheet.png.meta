@@ -95,10 +95,12 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
+    flipGreenChannel: 0
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -137,6 +139,7 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  swizzle: 50462976
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -700,9 +703,34 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      Nodding_24: 3028331100965227490
+      Nodding_16: -2354369021925216098
+      Nodding_5: 933069082971440720
+      Nodding_13: 1746860512032060745
+      Nodding_6: -2429424573651901384
+      Nodding_8: -6183850772837459878
+      Nodding_4: -431080334280910659
+      Nodding_20: 7138679186280231719
+      Nodding_1: -6692458902684742918
+      Nodding_14: -7447989989851908262
+      Nodding_11: 4168960524082728016
+      Nodding_23: -3919111764856130125
+      Nodding_0: 983681496901535598
+      Nodding_7: 7277410171800087840
+      Nodding_18: 531344771890415091
+      Nodding_9: -6831224086613541804
+      Nodding_21: 2911929820013203535
+      Nodding_15: -1526185878024704346
+      Nodding_10: -3904169676100512987
+      Nodding_19: -3582249658222752203
+      Nodding_22: -3293614639648566195
+      Nodding_3: -1118111580265184702
+      Nodding_12: -61460469364580817
+      Nodding_2: 2682768700621746877
+      Nodding_17: -8355816018051667550
   spritePackingTag: 
   pSDRemoveMatte: 0
-  pSDShowRemoveMatteOption: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 

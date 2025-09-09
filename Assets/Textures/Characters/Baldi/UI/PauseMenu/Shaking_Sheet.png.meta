@@ -95,10 +95,12 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
+    flipGreenChannel: 0
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -137,6 +139,7 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  swizzle: 50462976
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -700,9 +703,34 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      Shaking_21: 8716209119803500357
+      Shaking_10: -8825774185230442639
+      Shaking_20: 8119722229611447378
+      Shaking_13: 3725501312788204516
+      Shaking_7: -3629121715690820600
+      Shaking_12: 3901082966070551680
+      Shaking_9: 2375159936328807498
+      Shaking_3: -3890026275132465753
+      Shaking_22: 8333676600272581747
+      Shaking_16: -8240620970136056793
+      Shaking_18: -6646358824998724194
+      Shaking_11: -4234401558703181840
+      Shaking_15: -8533890694451176830
+      Shaking_17: 6552268296869645379
+      Shaking_8: 3119755127786344781
+      Shaking_5: -6793418157824545177
+      Shaking_1: -3060209098642528873
+      Shaking_23: 630923211143598459
+      Shaking_4: 8996598565253063961
+      Shaking_19: -7544386033267407601
+      Shaking_0: -2091483427984722907
+      Shaking_14: -4246770684118860333
+      Shaking_24: 9150409151133041613
+      Shaking_2: 3966116865373452787
+      Shaking_6: -5003319882648933486
   spritePackingTag: 
   pSDRemoveMatte: 0
-  pSDShowRemoveMatteOption: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 
